@@ -1,2 +1,10 @@
-we just published our local git repo to rmote GitHub.com repostory
+we just published our local git repo to rmote GitHub.com repository
 Few thing happened:
+
+
+
+Now our work will continue locally
+1. add a new file clled note.txt
+2.commited the change to local repo
+3.we wnt this change to be reflected in remote repository so we pushed local commits to
+remote repositorsy using push origin button
