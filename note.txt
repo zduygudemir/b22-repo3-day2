@@ -1,0 +1,2 @@
+we just published our local git repo to rmote GitHub.com repostory
+Few thing happened:
